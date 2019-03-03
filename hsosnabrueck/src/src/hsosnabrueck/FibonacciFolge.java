@@ -1,9 +1,9 @@
-package hsosnabrueck;
+package src.hsosnabrueck;
 
 public class FibonacciFolge {
+	
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int x = 1; 
 		int y = 0; 
 		
@@ -13,5 +13,4 @@ public class FibonacciFolge {
 
 		}
 	}
-
 }

@@ -1,4 +1,4 @@
-package hsosnabrueck;
+package vorbereitung;
 
 import java.lang.*;
 

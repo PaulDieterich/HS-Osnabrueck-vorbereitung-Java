@@ -1,4 +1,4 @@
-package hsosnabrueck;
+package src.hsosnabrueck;
 
 public class fooBar {
 
